@@ -1,0 +1,5 @@
+{
+  "name": "HWP Page Estimator",
+  "description": "An application to estimate the number of pages an English text would occupy in a standard HWP document format.",
+  "requestFramePermissions": []
+}
